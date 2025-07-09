@@ -1,3 +1,7 @@
+/* Cash is a beginner-level CS50x project that focuses on implementing a greedy algorithm to solve a real-world problem: 
+    calculating the minimum number of coins required to give change. The program prompts the user to enter the amount of change 
+  owed in cents and then determines how many quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢) are needed */
+
 #include <cs50.h>
 #include <stdio.h>
 
